@@ -16,7 +16,7 @@ $result = $conn->query($sql);
 <body>
     <header>
         <div class="navbar">
-            <div class="logo">herco<span>digital</span></div>
+            <div class="logo">Os1<span>Pedia</span></div>
             <nav>
                 <ul>
                     <li><a href="#">Services</a></li>
